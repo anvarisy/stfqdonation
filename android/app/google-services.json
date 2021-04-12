@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201008193660",
+    "project_id": "stfq-33e2f",
+    "storage_bucket": "stfq-33e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201008193660:android:2c05ce5332c172547c29f9",
+        "android_client_info": {
+          "package_name": "id.co.khwarizmi.stfqdonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201008193660-i9tk6003soao5d6e6fj34aajci8ka4qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBqKxvvxkroPZAzDstnkXVAKLmYb3FPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201008193660-i9tk6003soao5d6e6fj34aajci8ka4qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
